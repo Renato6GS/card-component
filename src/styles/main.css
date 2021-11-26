@@ -5,6 +5,7 @@
 :root {
    --soft-blue-primary: hsl(215, 51%, 70%);
    --cyan-primary: hsl(178, 100%, 50%);
+   --cyan-primary-hover: hsla(178, 100%, 50%, 0.5);
 
    --very-dark-blue-body: hsl(217, 54%, 11%);
    --very-dark-blue-card: hsl(216, 50%, 16%);
