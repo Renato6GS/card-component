@@ -1,0 +1,28 @@
+* {
+   box-sizing: border-box;
+}
+
+:root {
+   --soft-blue-primary: hsl(215, 51%, 70%);
+   --cyan-primary: hsl(178, 100%, 50%);
+
+   --very-dark-blue-body: hsl(217, 54%, 11%);
+   --very-dark-blue-card: hsl(216, 50%, 16%);
+   --very-dark-blue-line: hsl(215, 32%, 27%);
+   --white: #fff;
+
+   --font-size-paragraph: 18px;
+}
+
+body {
+   font-family: 'Outfit', sans-serif;
+   background-color: var(--very-dark-blue-body);
+   font-size: 16px;
+   /* 300 400 600 */
+}
+
+.main {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
