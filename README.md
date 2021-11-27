@@ -15,7 +15,7 @@ Estamos haciendo el README. Quiero poner un screenshot de la página
 -  CSS custom properties
 -  Flexbox
 -  CSS Grid
--  [Webpack Init](git@github.com:Renato6GS/webpack-init.git) - My webpack init
+-  [Webpack Init](https://github.com/Renato6GS/webpack-init) - My webpack init
 
 ### What I learned
 
