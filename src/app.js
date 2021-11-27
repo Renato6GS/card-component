@@ -10,3 +10,4 @@ importAll(require.context('./static/img', false, /\.(png|jpe?g|svg)$/));
 import './vendors/normalize/normalize.css';
 import './styles/main.css';
 import './styles/card.css';
+import './styles/footer.css';
